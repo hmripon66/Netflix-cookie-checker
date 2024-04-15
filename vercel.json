@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/(.*)",
-        "destination": "cookie_converter.py"
+        "destination": "/"
       }
     ]
   }
